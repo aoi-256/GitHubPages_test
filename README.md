@@ -1,7 +1,7 @@
 # GitHubPages_test
 GitubPagesのテストをするように作成！
 
-# 項目1 
+## 目次
 
 ⑴ [mainpage](readme/01_main.md) 
 
