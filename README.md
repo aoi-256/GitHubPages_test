@@ -3,4 +3,7 @@ GitubPagesのテストをするように作成！
 
 # 項目1 
 
-⑴ [mainpage](https://github.com/aoi-256/GitHubPages_test/blob/main/readme/01_main.md) テスト用！ちゃんと開けるかな
+⑴ [mainpage](main/readme/01_main.md) 
+⑵ [STM32](main/STM32/readme.md) 
+⑶ [mainpage](main/ESP32/readme.md) 
+⑷ [mainpage](main/Multicopter/readme.md) 
