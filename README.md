@@ -7,6 +7,6 @@ GitubPagesのテストをするように作成！
 
 ⑵ [STM32](STM32/readme.md) 
 
-⑶ [mainpage](ESP32/readme.md) 
+⑶ [ESP32](ESP32/readme.md) 
 
-⑷ [mainpage](Multicopter/readme.md) 
+⑷ [Multicopter](Multicopter/readme.md) 
